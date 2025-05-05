@@ -1,0 +1,12 @@
+[submodule "src/components/About"]
+	path = src/components/About
+	url = https://github.com/Abishekpranav-Arumugam/react-about-component.git
+[submodule "src/components/Footer"]
+	path = src/components/Footer
+	url = https://github.com/Abishekpranav-Arumugam/react-footer-component.git
+[submodule "src/components/HeaderComponent"]
+	path = src/components/HeaderComponent
+	url = https://github.com/Abishekpranav-Arumugam/react-header-component.git
+[submodule "src/components/NavBar"]
+	path = src/components/NavBar
+	url = https://github.com/Abishekpranav-Arumugam/react-navbar-component.git
